@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyFire & TK warning plugin", "FriendlyFire & TK warning plugin\FriendlyFire & TK warning plugin.csproj", "{D2B6B71A-9461-4761-A137-F01233C848D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B6B71A-9461-4761-A137-F01233C848D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B6B71A-9461-4761-A137-F01233C848D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B6B71A-9461-4761-A137-F01233C848D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B6B71A-9461-4761-A137-F01233C848D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C35E867-1174-46CC-ABEA-645B6390B85D}
+	EndGlobalSection
+EndGlobal
